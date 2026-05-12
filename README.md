@@ -1,4 +1,4 @@
-# PoliticalInequality: Error
+# Political Inequality: Error Message
 Sorry, you have hit a dead end.
 The location you are trying to access may not exist.
 Make sure your spelling is correct and ensure you haven't added any extra spaces.
